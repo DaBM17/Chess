@@ -1,0 +1,60 @@
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  Chessboard.cpp
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Chessboard.cpp(149,20): warning C4018: '<': no coinciden signed/unsigned
+  ChessPosition.cpp
+  CurrentGame.cpp
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(78,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(81,127): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(81,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(124,90): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(124,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(124,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(129,90): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(129,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(129,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(136,124): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(141,124): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(222,131): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(243,28): warning C4018: '<': no coinciden signed/unsigned
+  Movement.cpp
+  Piece.cpp
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(93,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(93,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(99,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(99,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(106,123): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(106,92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(112,127): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(112,96): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(119,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(119,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(125,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(125,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(132,124): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(132,93): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(138,128): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(138,97): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(145,124): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(145,93): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(151,128): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(151,97): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(158,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(158,91): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(164,126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(164,95): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  QueueMovements.cpp
+  GraphicManager.cpp
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\GraphicManager.cpp(28,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\0. C++ Code\Logic Game\GraphicManager.cpp(28,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código...
+  SDL_FontCache.c
+  MP_Practica.vcxproj -> C:\Users\danie\Desktop\CodiInicialSegonaEntrega\CodiInicialSegonaEntrega\Segona entrega\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
