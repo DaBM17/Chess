@@ -11,9 +11,9 @@ This was the main project of the second programming course I attended the first 
 
 ## 📸 Screenshots
 
-![Initial menu](img/Screenshot Chess Menu.png)
+![Initial menu]("img/Screenshot Chess Menu.png")
 
-![How it looks once you are playing](img/Screenshot Chess.png)
+![How it looks once you are playing]("img/Screenshot Chess.png")
 
 ## 🛠️ Language used
 
