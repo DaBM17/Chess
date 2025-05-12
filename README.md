@@ -11,9 +11,9 @@ This was the main project of the second programming course I attended the first 
 
 ## 📸 Screenshots
 
-![Ejemplo](C:/Users/danie/Desktop/Screenshot Chess Menu.png)
+![Initial menu](img/Screenshot Chess Menu.png)
 
-![Ejemplo](C:/Users/danie/Desktop/Screenshot Chess.png)
+![How it looks once you are playing](img/Screenshot Chess.png)
 
 ## 🛠️ Language used
 
@@ -26,9 +26,5 @@ This was the main project of the second programming course I attended the first 
 - 3️⃣ Execute MP_Practica.exe
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
-# Dependiendo del proyecto:
-# pip install -r requirements.txt
-# npm install
-# composer install
+git clone https://github.com/DaBM17/Chess
+cd Chess
